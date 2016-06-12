@@ -1,4 +1,4 @@
-%111503049 Mehmet Bozan >> Yapay Zeka 
+ Mehmet Bozan >> Yapay Zeka 
 function ag_dene_sonuc = ag_dene(giris,esik,deger,adet,yazdir)
 T=1;	
 X=zeros(sum(adet),1);
