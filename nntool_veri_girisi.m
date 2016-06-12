@@ -1,12 +1,12 @@
-%111503049 Mehmet Bozan >> Yapay Zeka 
+% Mehmet Bozan >> Yapay Zeka 
 
-%x1=Yol Sathında Gevşek Mazeme
-%x2=Yolda Münferit Çukur
-%x3=Tekerlek İzinde Oturma
-%x4=Kısmi veya Münferit Çökme
-%x5=Düşük Banket
-%x6=Köprü Çökmesi
-%x7=Heyelandan Dolayı Şerit Çökmesi
+%x1=Yol SathÄ±nda GevÅŸek Mazeme
+%x2=Yolda MÃ¼nferit Ã‡ukur
+%x3=Tekerlek Ä°zinde Oturma
+%x4=KÄ±smi veya MÃ¼nferit Ã‡Ã¶kme
+%x5=DÃ¼ÅŸÃ¼k Banket
+%x6=KÃ¶prÃ¼ Ã‡Ã¶kmesi
+%x7=Heyelandan DolayÄ± Åerit Ã‡Ã¶kmesi
 
 %x1=%41.72
 %x2=%23.87
