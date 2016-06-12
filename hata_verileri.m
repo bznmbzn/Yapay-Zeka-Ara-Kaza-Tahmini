@@ -1,4 +1,4 @@
-Mehmet Bozan >> Yapay Zeka 
+% Mehmet Bozan >> Yapay Zeka 
 function donus=hata_verileri(a,beklenen_degerim)
 i=size(beklenen_degerim,1)*size(beklenen_degerim,2);
 j=size(a,1)*size(a,2);
