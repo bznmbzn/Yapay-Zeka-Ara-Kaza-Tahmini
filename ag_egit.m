@@ -1,4 +1,4 @@
-Mehmet Bozan >> Yapay Zeka 
+% Mehmet Bozan >> Yapay Zeka 
 function [esik,B,hata] = ag_egit(girisler,cikislar,esik,B,adet,hata_payi) 
 
 % hata=1;
