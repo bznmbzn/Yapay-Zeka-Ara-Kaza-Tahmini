@@ -1,4 +1,4 @@
-%111503049 Mehmet Bozan >> Yapay Zeka 
+Mehmet Bozan >> Yapay Zeka 
 function [esik,deger]= ag_olustur(adet)
 
 deger=rand(sum(adet),1);
