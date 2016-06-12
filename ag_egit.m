@@ -1,4 +1,4 @@
-%111503049 Mehmet Bozan >> Yapay Zeka 
+Mehmet Bozan >> Yapay Zeka 
 function [esik,B,hata] = ag_egit(girisler,cikislar,esik,B,adet,hata_payi) 
 
 % hata=1;
@@ -179,10 +179,10 @@ subplot(1,2,1);
 h1=plot(cikislar,'b');
 hold on;
 h2=plot(sonuc,'g:');
-xlabel('Eðitilen Giriþler','FontSize',10,'Color','b');
-ylabel('Deðer','FontSize',10,'Color','b');
+xlabel('EÃ°itilen GiriÃ¾ler','FontSize',10,'Color','b');
+ylabel('DeÃ°er','FontSize',10,'Color','b');
 ylim([-0.01 max(cikislar(:))+0.01]);
-legend([h1(1),h2(1)],'Beklenen','Að Çýktýlarý','Location','northwest','Orientation','horizontal');
+legend([h1(1),h2(1)],'Beklenen','AÃ° Ã‡Ã½ktÃ½larÃ½','Location','northwest','Orientation','horizontal');
 
 end	
 
